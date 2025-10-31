@@ -29,12 +29,6 @@ I design and build end-to-end solutions that bridge user needs with technical ex
 
 ---
 
-## 📈 GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-karmakar&theme=default&hide_border=true&layout=compact&langs_count=6)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karmakarabhishek/)
