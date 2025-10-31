@@ -31,11 +31,7 @@ I design and build end-to-end solutions that bridge user needs with technical ex
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-karmakar&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-karmakar&theme=default&hide_border=true&layout=compact&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-karmakar&theme=default&hide_border=true)
 
 ---
 
